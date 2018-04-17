@@ -5,7 +5,7 @@ description: Lets Bring Back FactionsPro The Better Way!
 version: 2.5.0-BETA
 main: FactionsPro\FactionMain
 api:
-- 3.0.0-ALPHA11
+- 3.0.0-ALPHA12
 commands:
   f:
     permission: f.command
